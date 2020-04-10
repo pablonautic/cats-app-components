@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Cats project by Mike Cronin](https://itnext.io/building-a-dynamic-controlled-form-in-react-together-794a44ee552c)
 
 ## Available Scripts
 
